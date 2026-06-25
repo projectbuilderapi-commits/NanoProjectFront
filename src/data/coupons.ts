@@ -1,0 +1,6 @@
+export const COUPONS = {
+  STUDENT10: 10,
+  FIRST20: 20,
+  SUMMER15: 15,
+  FRIEND25: 25,
+};
