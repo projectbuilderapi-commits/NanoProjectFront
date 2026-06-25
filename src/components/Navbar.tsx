@@ -103,19 +103,6 @@ const Navbar = () => {
               </Link>
 
               <Link
-                to="/ASKadmin/login"
-                className="
-                  text-sm
-                  lg:text-base
-                  text-slate-300
-                  hover:text-white
-                  transition
-                "
-              >
-                login
-              </Link>
-
-              <Link
                 to="/faq"
                 className="
                   text-sm
