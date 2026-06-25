@@ -121,7 +121,6 @@ useEffect(() => {
   setTitle(
     initialData.title
   );
-
   setSlug(
     initialData.slug
   );
