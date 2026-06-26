@@ -1,5 +1,5 @@
 export const COUPONS = {
-  STUDENT10: 10,
+  STUDENT20: 20,
   FIRST20: 20,
   SUMMER15: 15,
   FRIEND25: 25,
